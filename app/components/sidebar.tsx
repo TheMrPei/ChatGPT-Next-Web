@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          Pei&#39s Work Helper
+          Pei&apos;s Work Helper
         </div>
         <div className={styles["sidebar-sub-title"]}>
           My AI assistant.
